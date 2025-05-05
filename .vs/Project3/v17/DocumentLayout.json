@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\drevc\\Desktop\\SFML projects\\Project3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{095505EA-F7AB-4D0F-9E2C-875B9ECAC14D}|Project3\\Project3.vcxproj|C:\\Users\\drevc\\Desktop\\SFML projects\\Project3\\Project3\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{095505EA-F7AB-4D0F-9E2C-875B9ECAC14D}|Project3\\Project3.vcxproj|solutionrelative:Project3\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095505EA-F7AB-4D0F-9E2C-875B9ECAC14D}|Project3\\Project3.vcxproj|C:\\Users\\drevc\\Desktop\\SFML projects\\Project3\\Project3\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{095505EA-F7AB-4D0F-9E2C-875B9ECAC14D}|Project3\\Project3.vcxproj|solutionrelative:Project3\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{095505EA-F7AB-4D0F-9E2C-875B9ECAC14D}|Project3\\Project3.vcxproj|C:\\Users\\drevc\\Desktop\\SFML projects\\Project3\\Project3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{095505EA-F7AB-4D0F-9E2C-875B9ECAC14D}|Project3\\Project3.vcxproj|solutionrelative:Project3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\drevc\\Desktop\\SFML projects\\Project3\\Project3\\Game.cpp",
+              "RelativeDocumentMoniker": "Project3\\Game.cpp",
+              "ToolTip": "C:\\Users\\drevc\\Desktop\\SFML projects\\Project3\\Project3\\Game.cpp",
+              "RelativeToolTip": "Project3\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-05T03:04:28.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\drevc\\Desktop\\SFML projects\\Project3\\Project3\\Game.h",
+              "RelativeDocumentMoniker": "Project3\\Game.h",
+              "ToolTip": "C:\\Users\\drevc\\Desktop\\SFML projects\\Project3\\Project3\\Game.h",
+              "RelativeToolTip": "Project3\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-05T03:04:26.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\drevc\\Desktop\\SFML projects\\Project3\\Project3\\main.cpp",
               "RelativeDocumentMoniker": "Project3\\main.cpp",
               "ToolTip": "C:\\Users\\drevc\\Desktop\\SFML projects\\Project3\\Project3\\main.cpp",
               "RelativeToolTip": "Project3\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-05T01:34:11.868Z",
               "EditorCaption": ""

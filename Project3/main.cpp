@@ -8,23 +8,37 @@
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
 
+using namespace sf; 
+using namespace std; 
+
 int main(void)
 {
-	sf::RenderWindow window(sf::VideoMode({ 1920, 1080 }), "Game 01");
-	sf::CircleShape shape(500.f); 
+	RenderWindow window(VideoMode({ 640, 480 }), "Game 01", sf::Style::Titlebar | sf::Style::Close);
+	CircleShape shape(100.f); 
 
-	shape.setFillColor(sf::Color::Yellow); 
+	shape.setFillColor(Color::Yellow); 
 
 	while (window.isOpen())
 	{
-		while (const std::optional event = window.pollEvent())
+		while (const optional event = window.pollEvent())
 		{
-			if (event->is<sf::Event::Closed>())
+			if (event->is<Event::Closed>())
 			{
 				window.close();
 			}
+
+			if (Keyboard::isKeyPressed(Keyboard::Key::Escape))
+			{
+				window.close(); 
+			}
+
+			if (Keyboard::isKeyPressed(Keyboard::Key::Down))
+			{
+				
+			}
+
 		}
-			window.clear();
+			window.clear(Color::White);
 			window.draw(shape);
 			window.display();
 		
